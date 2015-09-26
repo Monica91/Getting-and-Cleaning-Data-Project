@@ -1,6 +1,6 @@
----
-title: "ReadMe"
----
+# Getting and Cleaning Data Project
+
+## Steps for executing the program
 
 <ol>
   <li>Download the data source and put into a folder on your local drive. You'll have a UCI HAR Dataset  folder.</li>
